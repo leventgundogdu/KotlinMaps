@@ -1,2 +1,2 @@
 # KotlinMaps
- A Android exercise using Google Maps.
+ An Android exercise using Google Maps.
